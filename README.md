@@ -1,13 +1,13 @@
 # ☕ Java Fundamentals – Exercises Until Now
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
 
 ## 📚 About
 
 This module represents my **progression through foundational Java exercises**, developed as part of a Udemy course.  
-It combines multiple problem sets designed to build a solid base in **programming logic, syntax, decision-making, and iteration**.
+It combines multiple problem sets designed to build a solid base in **programming logic, syntax, decision-making, iteration, and object-oriented programming**.
 
-Each section of the code (currently commented) corresponds to individual exercises, evolving from basic operations to more structured logical flows and continuous execution.
+Each section of the code reflects a step forward — evolving from simple operations to structured, reusable, and modular code design.
 
 ---
 
@@ -32,6 +32,14 @@ Each section of the code (currently commented) corresponds to individual exercis
 - Input validation through iteration  
 - Counters and accumulators  
 - State management during execution  
+
+### 🔹 Object-Oriented Programming (OOP)
+- Class creation and structure (`entities` package)  
+- Encapsulation with private attributes  
+- Getters and setters for controlled access  
+- Method-based behavior definition  
+- Object instantiation and interaction  
+- Basic validation and exception handling  
 
 ---
 
@@ -64,8 +72,27 @@ Each section of the code (currently commented) corresponds to individual exercis
 
 ### 🔁 Iterative Logic & State Control
 - Password validation with retry logic  
-- Coordinate quadrant identification (loop-based input)  
-- Fuel preference tracking system with counters  
+- Coordinate quadrant identification  
+- Fuel preference tracking system  
+
+### 🧱 Object-Oriented Modeling
+
+#### 📦 Inventory System (Estoque)
+- Product creation, stock control, and total value calculation  
+- Add/remove stock with validation  
+- Custom `toString` representation  
+
+#### 📐 Rectangle
+- Area, perimeter, and diagonal calculation  
+- Mathematical modeling using object methods  
+
+#### 👨‍💼 Employee (Funcionario)
+- Net salary calculation  
+- Salary increase based on percentage  
+
+#### 🎓 Student
+- Final grade calculation  
+- Pass/fail validation with missing points logic  
 
 ---
 
@@ -76,7 +103,7 @@ This set of exercises demonstrates a clear evolution:
 - From **basic input/output and arithmetic**  
 - To **structured conditional logic and real-world scenarios**  
 - To **loop-based execution and state management**  
-- Building toward more **maintainable and scalable code practices**
+- To **object-oriented design and modular code structure**  
 
 ---
 
@@ -86,25 +113,25 @@ This module is part of my journey toward becoming a **Fullstack Developer**, foc
 
 - Strengthening core programming fundamentals  
 - Developing structured problem-solving skills  
-- Understanding control flow and execution cycles  
-- Writing clean, readable, and logical code  
+- Understanding execution flow and state management  
+- Designing reusable and maintainable code using OOP  
 
 ---
 
 ## 🚀 Next Steps
 
-- Refactor exercises into reusable methods  
-- Apply Object-Oriented Programming (OOP) principles  
-- Improve code organization and separation of concerns  
-- Introduce collections and more complex data structures  
-- Build small real-world applications based on these concepts  
+- Refactor classes with constructors  
+- Apply full encapsulation best practices  
+- Introduce lists and collections  
+- Implement relationships between classes  
+- Build complete CRUD-based applications  
 
 ---
 
 ## 💡 Notes
 
-> These exercises are intentionally grouped in a single class for learning purposes.  
-> Future implementations will follow best practices in structure, modularization, and design patterns.
+> These exercises are intentionally simple and educational.  
+> The focus is on building a strong foundation and evolving toward clean architecture and scalable solutions.
 
 ---
 
@@ -112,4 +139,4 @@ This module is part of my journey toward becoming a **Fullstack Developer**, foc
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
-**Consistency over perfection — evolving from logic basics to structured and dynamic problem solving.**
+**Consistency over perfection — evolving from logic basics to structured, object-oriented development.**
